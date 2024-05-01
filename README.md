@@ -6,5 +6,4 @@
 - Explain ?
 - Explain with code
 ### 3. HTTP Protocol
-HTTP Protocol
-Explain with code
+- Explain with code
