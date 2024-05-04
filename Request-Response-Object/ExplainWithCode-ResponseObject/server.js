@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
   // Set content type header to HTML
   res.setHeader("Content-type", "text/html");
 
-  // Send HTML content in response
+  // Send HTML content i
   res.end("<h1>Welcome to Response obj</h1>");
 });
 
