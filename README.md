@@ -15,3 +15,4 @@
 - ExplainWithCode-ResponseObject
 ### 6. Handling Multiple Request
 - Explain with code
+### 7. readFile and streams methods
