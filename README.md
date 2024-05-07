@@ -46,7 +46,7 @@ const http = require('http');
 ```
 - Explain with code
 ### 8. readFile and streams methods
-> Node.js provides methods like readFile and streams for efficient file I/O operations.
+> Node.js provides methods like readFile and streams for efficient file Input/Output operations.
 
 ```js
 const fs = require('fs');
